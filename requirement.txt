@@ -1,0 +1,7 @@
+selenium 
+beautifulsoup4 
+undetected-chromedriver
+requests
+google-search-results
+setuptools
+python-dotenv
