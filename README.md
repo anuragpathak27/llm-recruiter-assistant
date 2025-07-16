@@ -12,20 +12,10 @@ This project builds a recruitment assistant that scrapes LinkedIn profiles, eval
 3.	 Each profile is scored based on a weighted rubric.
 4.	 A personalized message is generated for each candidate.
 
-## Project Structure
-.
-├── main.py                  # Main driver script
-├── scraper.py               # LinkedIn scraping logic
-├── scorer.py                # Fit score computation logic
-├── message_generator.py     # OpenAI-based message generator
-├── candidates.json          # Sample scraped data
-├── job_description.txt      # Sample job description
-└── README.md
-
 Setup Instructions
 1. Clone the Repository
 
-git clone https://github.com/your-username/llm-candidate-ranker.git
+git clone [https://github.com/your-username/llm-recruiter-assistant.git](https://github.com/anuragpathak27/llm-recruiter-assistant/)
 
 2. Install Dependencies
 
@@ -62,5 +52,4 @@ Feel free to fork, extend scoring logic, or integrate additional LLM providers (
 📄 License
 MIT License
 
----
-## Anurag Pathak
+### Anurag Pathak
