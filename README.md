@@ -26,8 +26,11 @@ pip install -r requirements.txt
 3. Set Environment Variables
 
 huggingface_api_key
+
 serpapi_api_key
+
 linkedin_username
+
 linkedin_account_password
 
 ## Run the Project
