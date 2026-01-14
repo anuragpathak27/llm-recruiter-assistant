@@ -15,7 +15,7 @@ This project builds a recruitment assistant that scrapes LinkedIn profiles, eval
 Setup Instructions
 1. Clone the Repository
 
-git clone [https://github.com/your-username/llm-recruiter-assistant.git](https://github.com/anuragpathak27/llm-recruiter-assistant/)
+git clone [https://github.com/anuragpathak27/llm-recruiter-assistant.git](https://github.com/anuragpathak27/llm-recruiter-assistant/)
 
 2. Install Dependencies
 
